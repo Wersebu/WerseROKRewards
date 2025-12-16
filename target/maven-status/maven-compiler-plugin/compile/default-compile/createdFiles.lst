@@ -1,0 +1,12 @@
+org\example\ROKRewards\werseRokRewards\ProgressBar.class
+org\example\ROKRewards\werseRokRewards\WerseRokRewards.class
+org\example\ROKRewards\werseRokRewards\Challanges\Enchant.class
+org\example\ROKRewards\werseRokRewards\Challanges\Trading.class
+org\example\ROKRewards\werseRokRewards\PlaceholderAPI\PlaceholderAPI.class
+org\example\ROKRewards\werseRokRewards\Events.class
+org\example\ROKRewards\werseRokRewards\Challanges\Breading.class
+org\example\ROKRewards\werseRokRewards\Challanges\Mining.class
+org\example\ROKRewards\werseRokRewards\Challanges\Killing.class
+org\example\ROKRewards\werseRokRewards\RewardMap.class
+org\example\ROKRewards\werseRokRewards\Challanges\Crafting.class
+org\example\ROKRewards\werseRokRewards\Config\ConfigurationFileConverter.class

@@ -1,0 +1,12 @@
+#Here you need to put how much points is required to complite each task
+mining:
+  amount: 128
+  allowed:
+    - STONE
+    - COBBLESTONE
+    - MOSSY_COBBLESTONE
+killing: 200
+trades: 50
+craft: 50
+enchant: 20
+breed: 40

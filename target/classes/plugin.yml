@@ -1,0 +1,6 @@
+name: werseRokRewards
+version: '1.0-SNAPSHOT'
+main: org.example.ROKRewards.werseRokRewards.WerseRokRewards
+api-version: '1.21'
+depend:
+  - PlaceholderAPI
